@@ -1,4 +1,4 @@
-```markdown
+
 # 🛡️ Phishing Website Detection using AI/ML
 
 This project implements a **Random Forest-based Machine Learning model** to detect phishing websites using URL-based features. It leverages a curated dataset of phishing and legitimate URLs, extracts features, and trains a classifier that achieves **96.8% accuracy**.  
@@ -61,4 +61,4 @@ jupyter notebook Phishing_Detector_Enhanced_Colab.ipynb
     
 
 **Institution:** Air University, Islamabad
-```
+
