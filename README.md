@@ -43,13 +43,13 @@ The following URL-based features are used for classification:
 ```bash
 git clone https://github.com/<your-username>/Phishing-Website-Detection-AI.git
 cd Phishing-Website-Detection-AI
-
+```
 ### 2. Run the Notebook
 
 Open Jupyter Notebook and run:
-
 ```bash
 jupyter notebook Phishing_Detector_Enhanced_Colab.ipynb
+```
 
 ## 🏫 Authors
 
@@ -61,4 +61,5 @@ jupyter notebook Phishing_Detector_Enhanced_Colab.ipynb
     
 
 **Institution:** Air University, Islamabad
+
 
